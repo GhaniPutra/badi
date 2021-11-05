@@ -3,7 +3,7 @@
 <head>
     <style>
         h2{
-            color: wheat;
+            color: green;
         }
     </style>
     <meta charset="UTF-8">
