@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>bio data</title>
 </head>
-<body background="bg.jpg">
+<body bgcolor:gray;>
     <center>
         <h3>BIO DATA TIM</h3>
     </center>
